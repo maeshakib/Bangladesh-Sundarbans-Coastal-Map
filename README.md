@@ -6,7 +6,7 @@ Sundanban and Coastal Districts map project showcases hands-on experience with A
 
 ## Sundarbans-Coastal-Map
 
-<img align="left" alt="Home page | PBI" width="900px" src="https://github.com/maeshakib/z_resources/blob/2e21d8c512ee826ed204679b2ae94151ea8f91dc/Sundanban%20and%20Coastal%20Districts%20Map.png" /> <br>
+<img align="left" alt="Home page | PBI" width="1000px" src="https://github.com/maeshakib/z_resources/blob/2e21d8c512ee826ed204679b2ae94151ea8f91dc/Sundanban%20and%20Coastal%20Districts%20Map.png" /> <br>
 <br><br>
 
  <br><br>
